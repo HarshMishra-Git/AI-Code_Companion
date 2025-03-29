@@ -5,6 +5,8 @@
 
 A domain-specific coding assistant powered by Google's Gemini AI, built to help developers write better code, debug issues, and understand programming concepts.
 
+Demo of Project: [Video Link](https://drive.google.com/file/d/1EyocuzuD3RR8zhk3bkOJBtYP349P1Rkp/view?usp=sharing)
+
 ## 🌟 Features
 
 - **Multi-Language Support**: Write, debug, and optimize code in Python, JavaScript, Java, C++, and more
