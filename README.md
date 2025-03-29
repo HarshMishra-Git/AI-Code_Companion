@@ -1,6 +1,8 @@
 
 # AICodeCompanion 🤖
 
+![Project Cover Page](thumbnail.png)
+
 A domain-specific coding assistant powered by Google's Gemini AI, built to help developers write better code, debug issues, and understand programming concepts.
 
 ## 🌟 Features
